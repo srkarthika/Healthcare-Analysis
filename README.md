@@ -10,7 +10,7 @@ Metrics
 
 4. Age Groups Analysis: Segment data into age brackets and analyze metrics within these groups.
 
-5. Patient Satisfaction Metrics: Used Patients race and Age to find out the Average Satisfaction and Average Wait Time.
+5. Patient Satisfaction: Used Patients race and Age to find out the Average Satisfaction and Average Wait Time.
 
 6. Referral Distribution: Calculate the percentage of patients referred by department.
 
